@@ -1,0 +1,66 @@
+.header{
+    border: 3px solid green;
+    text-align: center;
+    color: rgb(6, 250, 6);
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.MFd5bz-tNAtVG2krY6o7hwHaEK&pid=Api&P=0&h=220);
+    background-position: center
+   
+}
+
+.nav{
+    border: 3px solid green;
+    margin-top: 10px;
+    width: auto;
+    height: 50px;
+    background-image: url(https://tse2.mm.bing.net/th?id=OIP.MFd5bz-tNAtVG2krY6o7hwHaEK&pid=Api&P=0&h=220);
+    background-position: center;
+}
+
+.iteams{
+    list-style: none;
+
+}
+.iteams1{
+    list-style: none;
+
+}
+
+.liteams{
+    width: 100px;
+    float: left;
+    font-size: 25px;
+    color: #f3efef;
+    font-weight: bold;
+    
+   
+}
+.liteams1{
+   width:100px;
+    float: right;
+    font-size: 25px;
+    color: rgb(244, 248, 244);
+    font-weight: bold;}
+
+p{
+    font-size: 25px;
+}
+
+h1{
+    text-align: center;
+}
+
+.box{
+    border: 3px solid black;
+    margin-top: 10px;
+}
+
+#cpc{
+    width: 900px;
+    margin-left: 250px;
+    border: 4px solid red;
+}
+
+nav .title{
+    text-decoration: none;
+    color: rgb(252, 250, 247);
+}
